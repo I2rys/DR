@@ -1,0 +1,23 @@
+{
+    "name": "dr",
+    "version": "1.0.0",
+    "description": "Directory files recursive.",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "keywords": [
+      "i2rys",
+      "dr",
+      "directory-files",
+      "directory-recursive",
+      "directory-files-recursive"
+    ],
+    "repository": "https://github.com/I2rys/DR",
+    "author": {
+      "name": "I2rys",
+      "email": "i2rys@protonmail.com",
+      "website": "https://i2rys.xyz"
+    },
+    "license": "MIT"
+  }
